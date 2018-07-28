@@ -1,9 +1,9 @@
 [submodule "Adafruit_CCS811_python"]
 	path = Adafruit_CCS811_python
 	url = git@github.com:adafruit/Adafruit_CCS811_python.git
-[submodule "Adafruit_BME280_Library"]
-	path = Adafruit_BME280_Library
-	url = git@github.com:adafruit/Adafruit_BME280_Library.git
 [submodule "SDL_Pi_HDC1000"]
 	path = SDL_Pi_HDC1000
 	url = git@github.com:switchdoclabs/SDL_Pi_HDC1000.git
+[submodule "Adafruit_Python_BME280"]
+	path = Adafruit_Python_BME280
+	url = https://github.com/adafruit/Adafruit_Python_BME280
