@@ -7,3 +7,6 @@
 [submodule "Adafruit_Python_BME280"]
 	path = Adafruit_Python_BME280
 	url = https://github.com/adafruit/Adafruit_Python_BME280
+[submodule "Adafruit_Python_GPIO"]
+	path = Adafruit_Python_GPIO
+	url = git@github.com:adafruit/Adafruit_Python_GPIO.git
