@@ -13,6 +13,7 @@ def ccs811example():
     c02, tvoc, temp = getdata()
     printdata(c02, tvoc, temp)
 
+
 def getdata():
     """Get the data from the CCS811 sensor module and return it"""
     ccs = Adafruit_CCS811()
